@@ -1,6 +1,7 @@
 # Customer-Churn-Prediction
 This project focuses on predicting customer churn for a telecom company using synthetic customer data. Customer churn prediction is a critical task for businesses to identify which customers are likely to discontinue their services, allowing for proactive retention strategies.
 
+###  For more info read Documentation
 ### **Project Overview**
 
 - **Objective**: Develop a predictive model to identify customers at high risk of churn based on various features.
@@ -19,7 +20,7 @@ This project focuses on predicting customer churn for a telecom company using sy
 
 ### **Getting Started**
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/customer-churn-prediction.git`
+1. **Clone the Repository**: `git clone https://github.com/sundaresanv/customer-churn-prediction.git`
 2. **Install Dependencies**: `pip install -r requirements.txt`
 3. **Run the Project**: Follow the instructions in `README.md` to generate data, train models, and evaluate results.
 
